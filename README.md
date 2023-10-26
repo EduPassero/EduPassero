@@ -2,9 +2,9 @@
 ### I'm Eduardo Passero
 
 
-- 🔭 I’m currently working as a fron-end dev with C#, .NET and Blazor
-- 🌱 I’m learning ReactJS with the purpose of becoming a full-stack dev
+- 🔭 I’m currently working as a fullstack .NET C# dev.
+- 🌱 This is my main stack, and the main subject of my studies!
 
 
-📫 E-mail: edupassero47@gmail.com
+📫 E-mail: eduardopassero@hotmail.com.com
     LinkedIn: https://www.linkedin.com/in/eduardo-passero
